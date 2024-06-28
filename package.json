@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s01uama",
-  "description": "https://v2.scrimba.com/learn-react-c0e/~020",
   "scripts": {
     "watch": "webpack -w",
     "build": "webpack"
